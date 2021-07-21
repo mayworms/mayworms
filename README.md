@@ -1,2 +1,0 @@
-# mayworms
-Hello, world!
