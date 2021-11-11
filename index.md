@@ -5,7 +5,8 @@ layout: default
 
 ### Hi there! 👋
 
-```
+## Some things about me:
+
 🔭 I’m currently working on: this website! I am very new to working with Github Pages LOL
 
 🌱 I’m currently learning about: folk theories developed by marginalized social media user communities
@@ -21,4 +22,3 @@ layout: default
 😄 Pronouns: he/him/his
 
 ⚡ Fun fact: My Super Smash Bros Melee main is Samus ⚡️
-```
