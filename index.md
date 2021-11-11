@@ -5,7 +5,7 @@ layout: default
 
 ### Hi, I'm Samuel! 👋
 
-My pronouns are he/him/his. I am a second year graduate student at the University of Michigan School of Information with a concentration in Digital Archives, Library Science, and Preservation. My current research interests include digital preservation, public libraries, transness and digital self-representation, trans community folk theories, and information practices. I want to learn how trans people use social media to explore identity and self-expression and to provide resources and support networks for one another. I have a BA in Social Relations and Policy from James Madison College at Michigan State University. Prior to my graduate program, I worked at both public libaries and government documents collections. 
+My pronouns are he/him/his. I am a second year graduate student at the University of Michigan School of Information with a concentration in Digital Archives, Library Science, and Preservation. My current research interests include digital preservation, public libraries, equitable content moderation, transness and digital self-representation, trans community folk theories, and information practices. I want to learn how trans people use social media to explore identity and self-expression and to provide resources and support networks for one another. I have a BA in Social Relations and Policy from James Madison College at Michigan State University. Prior to my graduate program, I worked at both public libaries and government documents collections. 
 
 🔭 I’m currently working on: this website! Still under development lol
 
