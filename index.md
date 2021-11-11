@@ -1,22 +1,18 @@
 ---
-title: Mayworm S.
+title: Samuel Mayworm
 layout: default
 ---
 
-### Hi there! 👋
+### Welcome to the webpage! 👋
 
-🔭 I’m currently working on: this website! I am very new to working with Github Pages LOL
+🔭 I’m currently working on: this website! Still under development lol
 
 🌱 I’m currently learning about: folk theories developed by marginalized social media user communities
 
-👯 I’m looking to collaborate on: [placeholder]
-
-🤔 I’m looking for help with: [placeholder]
-
 💬 Ask me about: my webcomic! :)
 
-📫 How to reach me: [placeholder]
+📫 How to reach me: [Email](mayworms@umich.edu)
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: My Super Smash Bros Melee main is Samus ⚡️
+💡 Fun fact: I main Samus in Super Smash Bros. Melee for the Nintendo GameCube ⚡️
