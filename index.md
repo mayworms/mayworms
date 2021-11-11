@@ -1,5 +1,5 @@
 ---
-title: Samuel's Very Cool and Functional Github Pages Website
+title: Text from Index Dot MD
 layout: default
 ---
 
