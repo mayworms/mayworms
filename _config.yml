@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 lsi: false
 safe: true
 source: main
@@ -9,3 +8,4 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+theme: minima
