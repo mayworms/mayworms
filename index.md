@@ -1,6 +1,6 @@
 ---
-title: Welcome
+title: Samuel's Very Cool and Functional Github Pages Website
 layout: default
 ---
 
-Hello, Jekyll!
+Anyone else miss GeoCities?
