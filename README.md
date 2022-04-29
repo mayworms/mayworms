@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: a paper, a website, a webcomic
+- 🔭 I’m currently working on: a paper and a website
 - 🌱 I’m currently learning about: folk theories developed by marginalized social media user communities
-- 💬 Ask me about: public libraries! :)
+- 💬 Ask me about: the state of digitization in Michigan libraries and cultural heritage institutions :)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: my Super Smash Bros Melee main is Samus ⚡️ 
 
 <!--
 **mayworms/mayworms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
