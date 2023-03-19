@@ -57,21 +57,21 @@ plugins:
 
 author:
   name   : "Samuel Mayworm"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-photo.jpg"
   bio    : "Project Manager (CRIT Lab, University of Michigan)"
   links:
-    - label: "Website"
+    - label: "Website (You Are Here)"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.mayworms.info"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mayworm_s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mayworms"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mt.eigh/"
 
 footer:
   links:
@@ -80,10 +80,10 @@ footer:
       url: "https://twitter.com/mayworm_s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mayworms"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/mt.eigh/"
 
 defaults:
   # _posts
