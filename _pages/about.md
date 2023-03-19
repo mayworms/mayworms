@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi, I'm Samuel! 👋 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My pronouns are he/him/his. I graduated from the University of Michigan School of Information with a Master of Information (concentration in Digital Archives, Library Science, and Preservation) in May 2022. Some of my current research interests include digital preservation, digital literacy, the relationship between content moderation and marginalized social media user communities, and marginalization and digital self-representation. I received my BA in Social Relations and Policy from James Madison College at Michigan State University. Prior to my graduate program, I worked in both public and academic libraries.
