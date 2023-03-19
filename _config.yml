@@ -16,7 +16,7 @@
 title: mayworms.info
 email: mayworms@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Samuel Mayworm lives here 👀 
+  Samuel Mayworm's personal website
 twitter_username: mayworm_s
 github_username: mayworms
 minimal_mistakes_skin: dark
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Samuel Mayworm"
   avatar : "/assets/images/profile-photo.jpg"
-  bio    : "Project Manager (CRIT Lab, University of Michigan)"
+  bio    : "Project Manager (CRIT Lab, University of Michigan School of Information)"
   links:
     - label: "Website (You Are Here)"
       icon: "fas fa-fw fa-link"
