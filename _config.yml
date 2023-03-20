@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/profile-photo.jpg"
   bio    : "Project Manager (CRIT Lab, University of Michigan School of Information)"
   links:
-    - label: "Website (You Are Here)"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.mayworms.info"
     - label: "Twitter"
@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mayworms"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mt.eigh/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://www.instagram.com/mt.eigh/"
 
 footer:
   links:
@@ -81,9 +81,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mayworms"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/mt.eigh/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://www.instagram.com/mt.eigh/"
 
 defaults:
   # _posts
