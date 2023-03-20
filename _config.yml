@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Samuel Mayworm"
   avatar : "/assets/images/profile-photo.jpg"
-  bio    : "Project Manager (CRIT Lab, University of Michigan School of Information)"
+  bio    : #"Project Manager (CRIT Lab, University of Michigan School of Information)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
