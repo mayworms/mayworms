@@ -5,6 +5,4 @@ title: "About"
 
 Hi, I'm Samuel! 👋 
 
-I am a Research Associate and Project Manager for Dr. Oliver L. Haimson's Community Research on Identity and Technology (CRIT) Lab at the University of Michigan School of Information. Some of my current research interests include trans-specific online communities, content moderation, platform governance, and digital preservation. I graduated from the University of Michigan School of Information with a Master of Information in May 2022. Prior to my graduate program, I worked in both public and academic libraries.
-
-If you're reading this, let me know if <a href="https://www.youtube.com">this link</a> works!
+I am a Research Associate and Project Manager for <a href="https://oliverhaimson.com/index.html">Dr. Oliver L. Haimson's</a> Community Research on Identity and Technology (CRIT) Lab at the <a href="https://www.si.umich.edu">University of Michigan School of Information</a>. Some of my current research interests include trans-specific online communities, content moderation, platform governance, and digital preservation. I graduated from the University of Michigan School of Information with a Master of Information in May 2022. Prior to my graduate program, I worked in both public and academic libraries.
