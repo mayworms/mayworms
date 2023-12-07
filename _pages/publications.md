@@ -13,4 +13,4 @@ Pardon the mess! If you're reading this, I haven't finished my Publications page
 
 Daniel Delmonaco, <b><u>Samuel Mayworm</u></b>, Josh Guberman, Hibby Thach, Aurelia Augusta, and Oliver L. Haimson. 2024. "What are you doing, TikTok?": How Marginalized Social Media Users Perceive, Theorize, and "Prove" Shadowbanning. <i>Proceedings of the ACM Human Computer Interaction (PACM HCI)</i> (forthcoming, CSCW 2024).
 
-Hibby Thach, <b><u>Samuel Mayworm</u></b>, Daniel Delmonaco, and Oliver L. Haimson. 2022. (In)visible moderation: A digital ethnography of marginalized users and content moderation on Twitch and Reddit. <i>New Media & Society.</i>
+Hibby Thach, <b><u>Samuel Mayworm</u></b>, Daniel Delmonaco, and Oliver L. Haimson. 2022. (In)visible moderation: A digital ethnography of marginalized users and content moderation on Twitch and Reddit. <i>New Media & Society.</i> https://doi.org/10.1177/14614448221109 
