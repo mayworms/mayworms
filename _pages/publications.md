@@ -3,8 +3,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Pardon the mess! If you're reading this, I haven't finished my Publications page yet :) 
-
 ### Peer-Reviewed Articles:
 
 <b><u>Samuel Mayworm</u></b>, Shannon Li, Hibby Thach, Daniel Delmonaco, Christian Paneda, Andrea Wegner, and Oliver L. Haimson. 2024. The Online Identity Help Center: Designing and Developing a Content Moderation Policy Resource for Marginalized Social Media Users. <i>Proceedings of the ACM Human Computer Interaction (PACM HCI)</i> (forthcoming, CSCW 2024).
