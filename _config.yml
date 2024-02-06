@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/profile-photo.jpg"
   bio    : "👋😃"
   links:
-    - label: "Website"
+    - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "files/websitecv2.pdf"
     - label: "Twitter"
