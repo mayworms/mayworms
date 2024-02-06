@@ -6,7 +6,7 @@ main:
 ##- title: "Tags"
 ##  url: /tags/
   - title: "CV"
-    url: /files/websitecv2.pdf/
+    url: /files/websitecv2.pdf
   - title: "About"
     url: /about/
 
