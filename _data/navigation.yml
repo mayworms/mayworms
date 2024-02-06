@@ -3,11 +3,12 @@ main:
     url: /posts/
   - title: "Publications"
     url: /publications/
-  - title: "Tags"
-    url: /tags/
+##- title: "Tags"
+##  url: /tags/
+  - title: "CV"
+    url: /files/websitecv2.pdf/
   - title: "About"
     url: /about/
-  - title: "CV"
-    url: /files/websitecv2.pdf
+
   ##- title: "Categories"
     ##url: /categories/
