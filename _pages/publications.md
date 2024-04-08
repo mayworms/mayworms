@@ -8,7 +8,7 @@ toc_icon: "columns"
 ## 2024
 ### Published
 
-<b><u>Samuel Mayworm</u></b>, Michael Ann DeVito, Daniel Delmonaco, Hibby Thach, and Oliver L. Haimson. 2024. Content Moderation Folk Theories and Perceptions of Platform Spirit Among Marginalized Social Media Users. <i>ACM Transactions on Social Computing</i> 7, 1: 1-27. <a href="https://doi.org/10.1145/3632741">https://doi.org/10.1145/3632741</a>
+<b><u>Samuel Mayworm</u></b>, Michael Ann DeVito, Daniel Delmonaco, Hibby Thach, and Oliver L. Haimson. 2024. Content Moderation Folk Theories and Perceptions of Platform Spirit Among Marginalized Social Media Users. <i>ACM Transactions on Social Computing</i> 7, 1: 1-27. <a href="https://doi.org/10.1145/3632741" target="_blank">https://doi.org/10.1145/3632741</a>
 {: .small}
 
 ### Forthcoming
@@ -28,5 +28,5 @@ Daniel Delmonaco, <b><u>Samuel Mayworm</u></b>, Josh Guberman, Hibby Thach, Aure
 ## 2022
 ### Published
 
-Hibby Thach, <b><u>Samuel Mayworm</u></b>, Daniel Delmonaco, and Oliver L. Haimson. 2022. (In)Visible Moderation: A Digital Ethnography of Marginalized Users and Content Moderation on Twitch and Reddit. <i>New Media & Society.</i> <a href="https://doi.org/10.1177/14614448221109804">https://doi.org/10.1177/14614448221109804</a>
+Hibby Thach, <b><u>Samuel Mayworm</u></b>, Daniel Delmonaco, and Oliver L. Haimson. 2022. (In)Visible Moderation: A Digital Ethnography of Marginalized Users and Content Moderation on Twitch and Reddit. <i>New Media & Society.</i> <a href="https://doi.org/10.1177/14614448221109804" target="_blank">https://doi.org/10.1177/14614448221109804</a>
 {: .small}
