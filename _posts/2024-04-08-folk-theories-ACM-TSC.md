@@ -5,9 +5,6 @@ categories:
   - blog
 tags:
   - update
-  - research
-  - writing
-  - content moderation
 toc: true
 toc_label: "Navigation"
 toc_icon: "columns"
