@@ -1,12 +1,12 @@
 ---
-title: "whoa 2 👀"
-date: 2024-02-05T23:09:30-04:00
+title: "Paper Accepted to ACM Transactions on Social Computing"
+date: 2024-04-07T23:01:30-04:00
 categories:
   - blog
 tags:
   - update
 ---
-If you're reading this, I'm troubleshooting my blog irresponsibly lol.
+New Paper Accepted to ACM Transactions on Social Computing
 ---
 Very excited to share my first first-authored paper, <a href="https://doi.org/10.1145/3632741" target="_blank"><b><u>Content Moderation Folk Theories and Perceptions of Platform Spirit Among Marginalized Social Media Users</b></u></a>, co-authored by <a href="https://michaelanndevito.com/" target="_blank">Michael Ann DeVito</a>, <a href="https://www.libraries.rutgers.edu/directory/daniel-delmonaco" target="_blank">Daniel Delmonaco</a>, <a href="https://www.hibbythach.com/" target="_blank">Hibby Thach</a>, and <a href="https://oliverhaimson.com/" target="_blank">Oliver L. Haimson</a>! 
 
