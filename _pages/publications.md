@@ -1,6 +1,9 @@
 ---
 permalink: /publications/
 title: "Publications"
+toc: true
+toc_label: "Navigation"
+toc_icon: "columns"
 ---
 ## 2024
 ### Published
