@@ -5,9 +5,6 @@ categories:
   - blog
 tags:
   - update
-toc: true
-toc_label: "Navigation"
-toc_icon: "columns"
 ---
 Paper Accepted to ACM Transactions on Social Computing
 ---
