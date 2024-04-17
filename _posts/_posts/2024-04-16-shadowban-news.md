@@ -1,5 +1,5 @@
 ---
-title: "In the News: "Shadowbanning: Some Marginalized Social Media Users Believe Their Content is Suppressed""
+title: "In the News: Shadowbanning: Some Marginalized Social Media Users Believe Their Content is Suppressed"
 date: 2024-04-16T23:01:30-04:00
 categories:
   - blog
