@@ -1,0 +1,14 @@
+main:
+  - title: "Blog Posts"
+    url: /posts/
+  - title: "Publications"
+    url: /publications/
+##- title: "Tags"
+##  url: /tags/
+  - title: "CV"
+    url: /files/2024websitecv.pdf
+  - title: "About"
+    url: /about/
+
+  ##- title: "Categories"
+    ##url: /categories/
