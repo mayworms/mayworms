@@ -12,7 +12,7 @@ title                    : "mayworms.info"
 title_separator          : "-"
 name                     : &name "Samuel Reiji Mayworm"
 description              : &description "sam's website lol"
-url                      : https://mayworms.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mayworms.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayworms/mayworms.github.io"
 
