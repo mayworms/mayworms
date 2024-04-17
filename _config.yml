@@ -22,10 +22,10 @@ repository               : "mayworms/mayworms.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Samuel Reiji Mayworm"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "👋😃"
+  location         : "Ann Arbor, MI"
   employer         : "if you're reading this, Sam is updating his website in a not-so-smart way -- sorry about that!"
   uri              : # URL
   email            : "mayworms@umich.edu" 
@@ -76,7 +76,7 @@ author:
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 150
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -297,6 +297,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-toc
 
 
 # Archives
