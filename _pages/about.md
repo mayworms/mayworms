@@ -9,4 +9,4 @@ I am a Research Associate and incoming PhD student working with <a href="https:/
 
 Some of my current research interests include trans-centered online communities, content moderation, platform governance, folk theorization, alternative online infrastructures, and digital preservation. 
 
-I graduated from UMSI with a Master of Information in May 2022. Prior to my graduate program, I worked in public and academic libraries.
+I graduated from Michigan State University with a Bachelor of Arts in Social Relations and Policy in 2017, and from UMSI with a Master of Information in May 2022. Prior to my graduate program, I worked in public and academic libraries.
