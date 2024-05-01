@@ -7,7 +7,7 @@ tags:
   - update
 ---
 Very excited to share two new papers accepted to CSCW 2024!
-- <a href="https://dl.acm.org/doi/10.1145/3637406" target="blank"><b>The Online Identity Help Center: Designing and Developing a Content Moderation Policy Resource for Marginalized Social Media Users</b></a>>, coauthored by Shannon Li, Hibby Thach, Daniel Delmonaco, Christian Paneda, Andrea Wegner, and Oliver L. Haimson
+- <a href="https://dl.acm.org/doi/10.1145/3637406" target="blank"><b>The Online Identity Help Center: Designing and Developing a Content Moderation Policy Resource for Marginalized Social Media Users</b></a>, coauthored by Shannon Li, Hibby Thach, Daniel Delmonaco, Christian Paneda, Andrea Wegner, and Oliver L. Haimson
 - <a href="https://dl.acm.org/doi/10.1145/3637431" target="blank"><b>“What are you doing, TikTok?”: How Marginalized Social Media Users Perceive, Theorize, and “Prove” Shadowbanning</b></a>, first-authored by <a href="https://www.libraries.rutgers.edu/directory/daniel-delmonaco" target="blank">Daniel Delmonaco</a>, coauthored by Samuel Mayworm (myself), <a href="https://www.si.umich.edu/people/josh-guberman" target="blank">Josh Guberman</a>, <a href="https://www.hibbythach.com/" target="blank">Hibby Thach</a>, <a href="https://www.aeva.dev/" target="blank">Aurelia Augusta</a>, and <a href="https://oliverhaimson.com/" target="_blank">Oliver L. Haimson</a>
 
 # "The Online Identity Help Center" Abstract:
