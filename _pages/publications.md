@@ -8,6 +8,12 @@ toc_icon: "columns"
 ## 2024
 ### Published
 
+<b><u>Samuel Mayworm</u></b>, Kendra Albert, and Oliver L. Haimson. 2024. Misgendered During Moderation: How Trans Bodies Make Visible Cisnormative Content Moderation Policies and Enforcement on Social Media Platforms. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658907" target="_blank">https://doi.org/10.1145/3630106.3658907</a> (forthcoming, ACM FAccT Conference 2024).
+{: .small}
+
+Hibby Thach, <b><u>Samuel Mayworm</u></b>, Michaelanne Thomas, and Oliver L. Haimson. 2024. Trans-Centered Moderation: Trans Technology Creators and Centering Transness in Platform and Community Governance. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658909" target="_blank">https://doi.org/10.1145/3630106.3658909</a>.
+{: .small}
+
 <b><u>Samuel Mayworm</u></b>, Michael Ann DeVito, Daniel Delmonaco, Hibby Thach, and Oliver L. Haimson. 2024. Content Moderation Folk Theories and Perceptions of Platform Spirit Among Marginalized Social Media Users. <i>ACM Transactions on Social Computing</i> 7, 1: 1-27. <a href="https://doi.org/10.1145/3632741" target="_blank">https://doi.org/10.1145/3632741</a>.
 {: .small}
 
@@ -18,12 +24,6 @@ Daniel Delmonaco, <b><u>Samuel Mayworm</u></b>, Josh Guberman, Hibby Thach, Aure
 {: .small} 
 
 ### In Press
-
-<b><u>Samuel Mayworm</u></b>, Kendra Albert, and Oliver L. Haimson. 2024. Misgendered During Moderation: How Trans Bodies Make Visible Cisnormative Content Moderation Policies and Enforcement on Social Media Platforms. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658907" target="_blank">https://doi.org/10.1145/3630106.3658907</a> (forthcoming, ACM FAccT Conference 2024).
-{: .small}
-
-Hibby Thach, <b><u>Samuel Mayworm</u></b>, Michaelanne Thomas, and Oliver L. Haimson. 2024. Trans-Centered Moderation: Trans Technology Creators and Centering Transness in Platform and Community Governance. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i> (forthcoming, ACM FAccT Conference 2024).
-{: .small}
 
 ## 2022
 ### Published
