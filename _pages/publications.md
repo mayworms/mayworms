@@ -23,8 +23,6 @@ Hibby Thach, <b><u>Samuel Mayworm</u></b>, Michaelanne Thomas, and Oliver L. Hai
 Daniel Delmonaco, <b><u>Samuel Mayworm</u></b>, Josh Guberman, Hibby Thach, Aurelia Augusta, and Oliver L. Haimson. 2024. “What are you doing, TikTok?”: How Marginalized Social Media Users Perceive, Theorize, and “Prove” Shadowbanning. <i>Proceedings of the ACM Human Computer Interaction (PACM HCI)</i> CSCW [Computer-Supported Cooperative & Social Computing] <a href="https://doi.org/10.1145/3637431" target="_blank">https://doi.org/10.1145/3637431</a>.
 {: .small} 
 
-### In Press
-
 ## 2022
 ### Published
 
