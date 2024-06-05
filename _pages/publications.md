@@ -8,7 +8,7 @@ toc_icon: "columns"
 ## 2024
 ### Published
 
-<b><u>Samuel Mayworm</u></b>, Kendra Albert, and Oliver L. Haimson. 2024. Misgendered During Moderation: How Trans Bodies Make Visible Cisnormative Content Moderation Policies and Enforcement on Social Media Platforms. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658907" target="_blank">https://doi.org/10.1145/3630106.3658907</a> (forthcoming, ACM FAccT Conference 2024).
+<b><u>Samuel Mayworm</u></b>, Kendra Albert, and Oliver L. Haimson. 2024. Misgendered During Moderation: How Trans Bodies Make Visible Cisnormative Content Moderation Policies and Enforcement on Social Media Platforms. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658907" target="_blank">https://doi.org/10.1145/3630106.3658907</a>.
 {: .small}
 
 Hibby Thach, <b><u>Samuel Mayworm</u></b>, Michaelanne Thomas, and Oliver L. Haimson. 2024. Trans-Centered Moderation: Trans Technology Creators and Centering Transness in Platform and Community Governance. In <i>Proceedings of the 2024 ACM Conference on Fairness, Accountability, & Transparency (FAccT)</i>. <a href="https://doi.org/10.1145/3630106.3658909" target="_blank">https://doi.org/10.1145/3630106.3658909</a>.
