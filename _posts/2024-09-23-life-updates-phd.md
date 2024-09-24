@@ -6,7 +6,7 @@ categories:
 tags:
     - update
 ---
-This past month was one of the busiest, most eventful years of my entire life. In the past month, I:
+In the past month, I:
 
 - **began my PhD in Information at UMSI**, advised by Dr. Oliver L. Haimson and Dr. Michaelanne Thomas
 - attended the **2nd International Trans Studies Conference** at Northwestern University
