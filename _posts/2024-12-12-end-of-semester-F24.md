@@ -1,8 +1,8 @@
 ---
-layout: post.njk
-permalink: posts/2024-12-12.html
 title: "Thoughts on the end of my first PhD semester"
 date: 2024-11-12
+categories:
+    - blog
 tags:
     - update
     - PhD
